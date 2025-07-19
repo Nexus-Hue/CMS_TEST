@@ -1,6 +1,7 @@
 ---
 author: Sat Naing
-title: How to configure AstroPaper theme
+title: How to build stuff by building it when it needs building to build stuff
+  that iis built
 slug: how-to-configure-astropaper-theme
 featured: true
 draft: false
